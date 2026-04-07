@@ -6,9 +6,18 @@ The stencil generator converts SVG artwork into stencil plates with beveled edge
 
 ## Repository structure
 
-Each stencil project lives in its own directory containing:
+Each stencil lives in its own directory under `Stencils/`, containing:
 
-- Source SVG artwork
-- OpenSCAD configuration (`.scad`) referencing the generator
-- Exported STL model(s)
-- Sliced print file(s) (`.gcode`, `.3mf`, etc.)
+- Source SVG artwork (stencil cutout and outline)
+- Exported STL model
+- Sliced print file (`.gcode`)
+
+## Stencils
+
+| Name | Preview |
+|------|---------|
+| [Choking Bee](Stencils/Choking%20Bee) | A bee stencil design |
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
