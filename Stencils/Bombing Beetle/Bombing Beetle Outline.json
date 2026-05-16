@@ -1,0 +1,30 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "bevel_depth": "2",
+            "bevel_width": "0.30000000000000004",
+            "design_scale": "1",
+            "handle_grip_diameter": "15",
+            "handle_length": "40",
+            "handle_overlap": "1",
+            "handle_width": "30",
+            "model_scale": "1",
+            "plate_border": "10",
+            "plate_corner_radius": "10",
+            "plate_depth": "3",
+            "preview_mode": "true",
+            "reg_mark_inset": "8",
+            "reg_mark_size": "10",
+            "reg_mark_width": "1",
+            "show_cross_section": "false",
+            "show_handle_1": "false",
+            "show_handle_2": "true",
+            "show_handle_grip": "true",
+            "show_registration_marks": "false",
+            "svg_file": "Bombing Beetle Outline.svg",
+            "svg_native_height": "150",
+            "svg_native_width": "200"
+        }
+    }
+}
